@@ -4,9 +4,9 @@ This Flutter app allows users to manage their Ethereum wallet on the Goerli test
 
 ## Guideline to execute application
 
-- ** Install dependencies:**
+- Install dependencies:
    - flutter pub get
-- ** Run the app:**
+-  Run the app:
    - flutter run
 
 ## Features
