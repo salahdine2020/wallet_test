@@ -59,4 +59,4 @@ Follow these simple steps to run the app:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ethereum-wallet-app.git
+   git clone https://github.com/salahdine2020/wallet_test.git
