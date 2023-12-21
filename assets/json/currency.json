@@ -1,0 +1,84 @@
+{
+    "currency":[
+        {
+            "name" : "Bitcoin",
+            "symbol" : "BTC",
+            "logo" : "assets/images/btc.png",
+            "price" : "$43,452.40",
+            "volume" : "804",
+            "price_change" : "232"
+        },
+        {
+            "name" : "Ethereum",
+            "symbol" : "ETh",
+            "logo" : "assets/images/eth.png",
+            "price" : "$2182.52",
+            "volume" : "804",
+            "price_change" : "21"
+        },
+        {
+            "name" : "Tether",
+            "symbol" : "USDT",
+            "logo" : "assets/images/usdt.png",
+            "price" : "$0.999",
+            "volume" : "804",
+            "price_change" : "22"
+        },
+        {
+            "name" : "USD Coin",
+            "symbol" : "USDC",
+            "logo" : "assets/images/usdc.png",
+            "price" : "1.002",
+            "volume" : "804",
+            "price_change" : "232"
+        },
+        {
+            "name" : "Binance Coin",
+            "symbol" : "BNB",
+            "logo" : "assets/images/bnb.png",
+            "price" : "258.60",
+            "volume" : "804",
+            "price_change" : "22"
+        },
+        {
+            "name" : "XRP",
+            "symbol" : "XRP",
+            "logo" : "assets/images/XRP.png",
+            "price" : "$0.62",
+            "volume" : "804",
+            "price_change" : "323"
+        },
+        {
+            "name" : "Cardano",
+            "symbol" : "ADA",
+            "logo" : "assets/images/ada.png",
+            "price" : "$0.59",
+            "volume" : "804",
+            "price_change" : "22"
+        },
+        {
+            "name" : "HEX",
+            "symbol" : "HEX",
+            "logo" : "assets/images/HEX.png",
+            "price" : "$2,100.30",
+            "volume" : "804",
+            "price_change" : "22"
+        },
+        {
+            "name" : "Binance USD",
+            "symbol" : "BUSD",
+            "logo" : "assets/images/BUSD.png",
+            "price" : "$450.20",
+            "volume" : "804",
+            "price_change" : "22"
+        },
+        {
+            "name" : "Solana",
+            "symbol" : "SOL",
+            "logo" : "assets/images/SOL2.jpg",
+            "price" : "$180.30",
+            "volume" : "804",
+            "price_change" : "23"
+        }
+    ]
+}
