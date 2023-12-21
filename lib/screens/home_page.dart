@@ -73,6 +73,7 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
         body:  IndexedStack(
+          // index
           index: _currentIndex,
           children: _screens,
         ),
