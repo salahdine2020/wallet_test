@@ -246,7 +246,7 @@ class _SendAccountPageState extends State<SendAccountPage> {
                   '0x1e0372d4D2BB295aB9D851A5cbB2063D2d4ef17E'),
               */
               SizedBox(
-                height: MediaQuery.of(context).size.height * .18,
+                height: MediaQuery.of(context).size.height * .08,
               ),
               // Add any additional widgets or form elements as needed
               Align(
